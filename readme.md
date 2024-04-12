@@ -24,7 +24,7 @@ Para executar o jogo em seu próprio sistema, siga estas etapas:
 4. Carregue o código na placa Arduino.
 5. Observe o funcionamento dos semáforos, acompanhando o ciclo de sinalização definido no código.
 
-<br><img src="https://media.discordapp.net/attachments/1002050908156334082/1153109407752802385/Semaforo.png?width=1025&height=370">
+<br><img src="https://media.discordapp.net/attachments/1002050908156334082/1153109407752802385/Semaforo.png?ex=6625a052&is=66132b52&hm=942eed2303b8c82f110d3af6cbff6456db3dc192e2f6b4ffef9af01274080a44&=&format=webp&quality=lossless&width=1025&height=370">
 
 ## Personalização
 
